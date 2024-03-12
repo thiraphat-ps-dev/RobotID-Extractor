@@ -1,0 +1,34 @@
+header-title-text
+header-language-menu-language-picker-text
+header-firster-logo-link
+search-bar-search-input
+header-notification-link
+undefined
+header-user-menu-button
+header-cart-link
+header-mega-menu-beauty-link
+header-mega-menu-lifestyle-link
+header-mega-menu-exclusive at firster-link
+header-mega-menu-gift-set-link
+header-mega-menu-brands-link
+header-mega-menu-partner & promotion-link
+header-mega-menu-SUNCARE ITEM-link
+header-mega-menu-prev-button
+header-mega-menu-next-button
+user-side-bar-menu
+user-side-bar-menu-item-0-link
+user-side-bar-menu-item-1-link
+user-side-bar-menu-item-2-link
+user-side-bar-menu-item-3-link
+user-side-bar-menu-item-4-link
+user-side-bar-menu-item-5-link
+my-address-add-address-button
+my-address-address-info-box-0
+my-address-address-info-box-0-name-text
+my-address-address-info-box-0-address-text
+my-address-address-info-box-0-mobile-text
+my-address-address-info-box-0-email-text
+my-address-address-info-box-0-default-address-badge
+my-address-address-info-box-0-default-address-badge-text
+my-address-address-info-box-0-delete-button
+my-address-address-info-box-0-edit-button

@@ -1,0 +1,30 @@
+header-title-text
+header-language-menu-language-picker-text
+header-firster-logo-link
+search-bar-search-input
+header-notification-link
+undefined
+header-user-menu-button
+header-cart-link
+header-mega-menu-beauty-link
+header-mega-menu-lifestyle-link
+header-mega-menu-exclusive at firster-link
+header-mega-menu-gift-set-link
+header-mega-menu-brands-link
+header-mega-menu-partner & promotion-link
+header-mega-menu-SUNCARE ITEM-link
+header-mega-menu-prev-button
+header-mega-menu-next-button
+message-template-message-menu
+message-template-title-text
+message-template-description-text
+my-message-read-all-button
+my-message-message-item-item-86290436-db56-46a3-b07f-58f814ead884-status-text
+my-message-message-item-item-86290436-db56-46a3-b07f-58f814ead884-description-text
+my-message-message-item-item-86290436-db56-46a3-b07f-58f814ead884-date-text
+my-message-message-item-item-86290436-db56-46a3-b07f-58f814ead884-view-detail-button
+my-message-total-items-text
+my-message-pagination
+my-message-pagination-prev-button
+my-message-pagination-1-button
+my-message-pagination-next-button

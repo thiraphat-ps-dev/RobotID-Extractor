@@ -53,14 +53,14 @@ const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
         await page.click(`[data-id="login-continue-button"]`);
 
         // Wait for user menu to load
-        await delay(3000);
+        await delay(5000);
 
         await page.type('input[name="password"]', password);
 
         await page.waitForSelector(`[data-id="welcome-back-login-button"]`);
         await page.click(`[data-id="welcome-back-login-button"]`);
 
-        await delay(3000);
+        await delay(5000);
 
         // Navigate to the specified URL
         await page.goto(url);
@@ -84,7 +84,7 @@ const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
         await page.click(`[data-id="header-user-menu-button"]`);
 
         // Wait for user menu to load
-        await delay(3000);
+        await delay(5000);
 
         // Fill and submit login form
         await page.type('input[name="username"]', username);
@@ -93,14 +93,14 @@ const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
         await page.click(`[data-id="login-popup-continue-button"]`);
 
         // Wait for user menu to load
-        await delay(3000);
+        await delay(5000);
 
         await page.type('input[name="password"]', password);
 
         await page.waitForSelector(`[data-id="login-button"]`);
         await page.click(`[data-id="login-button"]`);
 
-        await delay(3000);
+        await delay(5000);
 
         // Navigate to the specified URL
         await page.goto(url);
@@ -129,7 +129,7 @@ const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
       await page.click(`[data-id="${dataIdToClick}"]`);
 
       // Wait for user menu to load
-      await delay(3000);
+      await delay(5000);
     }
 
     // Extract data-ids
